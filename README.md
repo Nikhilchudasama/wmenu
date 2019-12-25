@@ -1,15 +1,19 @@
 # Laravel Drag and Drop menu editor like wordpress
 [![Latest Stable Version](https://poser.pugx.org/harimayco/laravel-menu/v/stable)](https://packagist.org/packages/harimayco/laravel-menu) [![Latest Unstable Version](https://poser.pugx.org/harimayco/laravel-menu/v/unstable)](https://packagist.org/packages/harimayco/laravel-menu) [![Total Downloads](https://poser.pugx.org/harimayco/laravel-menu/downloads)](https://packagist.org/packages/harimayco/laravel-menu) [![Monthly Downloads](https://poser.pugx.org/harimayco/laravel-menu/d/monthly)](https://packagist.org/packages/harimayco/laravel-menu)
 
-forked from https://github.com/lordmacu/wmenu
+forked from https://github.com/harimayco/wmenu-builder
 ![Laravel drag and drop menu](https://raw.githubusercontent.com/harimayco/wmenu-builder/master/screenshot.png)
+
+### Fork 
+This repo fork for harimayco/wmenu-builder 
+
 
 ### Installation
 
 1. Run
 
 ```php
-composer require harimayco/laravel-menu
+composer require nikhilchudasma/laravel-menu
 ```
 
 **_Step 2 & 3 are optional if you are using laravel 5.5_**
@@ -148,8 +152,8 @@ you can edit the menu interface in **_resources/views/vendor/wmenu/menu-html.bla
 
 ### Credits
 
-- [wmenu](https://github.com/lordmacu/wmenu) laravel package menu like wordpress
+- [harimayco](https://github.com/harimayco/) laravel package menu like wordpress
 
 ### Compatibility
 
-- Tested with laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7
+- Tested with laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 6.*
